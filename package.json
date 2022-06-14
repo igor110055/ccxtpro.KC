@@ -1,5 +1,5 @@
 {
-  "name": "ccxt.pro",
+  "name": "ccxtpro.kc",
   "version": "0.7.25",
   "description": "A professional tool for algorithmic cryptocurrency trading",
   "main": "./ccxt.pro.js",
