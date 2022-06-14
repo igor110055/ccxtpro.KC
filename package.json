@@ -44,7 +44,7 @@
   },
   "types": "./ccxt.pro.d.ts",
   "dependencies": {
-    "ccxt": "^1.50.91",
+    "ccxt": "git+https://github.com/Credit-First/ccxt.git",
     "ws": "^7.4.6"
   },
   "devDependencies": {
